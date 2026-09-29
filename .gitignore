@@ -1,0 +1,15 @@
+# результаты сборки
+*.o
+audit_app/audit
+audit_app/audit.exe
+audit_app/audit_web
+audit_app/audit_web.exe
+
+# файлы данных программы (создаются при запуске)
+*.dat
+*.dat.tmp
+
+# системные и временные файлы
+.DS_Store
+~$*
+.vscode/
